@@ -1,8 +1,4 @@
 
-const OPENAI_API_KEY = "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"
-
-
-
 const valorate_system_prompt = `You are a fashion outfit evaluator that assesses the compatibility between a person, a garment, and an occasion.
 
 INPUT:
