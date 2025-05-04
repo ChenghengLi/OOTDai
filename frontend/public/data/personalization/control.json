@@ -1,0 +1,28 @@
+{
+    "results": [
+        {
+            "_id": "mystery",
+            "name": "Designer’s choice; recommended for pet instagrammmers or anyone with a pet social media platform",
+            "brand": "Mystery box",
+            "images": [
+                "/assets/images/Control/1.jpg"
+             ]
+        },
+        {
+            "_id": "medium",
+            "name": "Designer’s choice with the personal touch of unique message and colors; recommended for pet instagrammmers or anyone with a pet social media platform",
+            "brand": "Medium control",
+            "images": [
+                "/assets/images/Control/2.jpg"
+            ]
+        },
+        {
+            "_id": "full",
+            "name": "Hand-select every photo to ensure each product embodies perfection; recommended if you don’t have a pet instagram account",
+            "brand": "Full control",
+            "images": [
+                "/assets/images/Control/3.jpg"]
+        }
+        
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "results": [
+        {
+            "_id": "love",
+            "name": "Personalize Your Love With This Journey",
+            "brand": "LOVE",
+            "color": "#e7b9b4",
+            "images": [
+                "/assets/images/Personalization/1.jpg"
+            ]
+        },
+        {
+            "_id": "gift",
+            "name": "Customize Personalized Gifting, a Journey for Thoughtfully Tailored Expressions of Celebration",
+            "brand": "GIFTING",
+            "color": "#f19586",
+            "images": [
+                "/assets/images/Personalization/4.jpg"
+                ]
+        },
+        {
+            "_id": "memorialize",
+            "name": "Honor Your Beloved, a Journey Paying Tribute through Heartfelt Remembrances that Echoes Through Time",
+            "brand": "MEMORIAL",
+            "color": "#c2dace",
+            "images": [
+                "/assets/images/Personalization/3.jpg"]
+        },
+        {
+            "_id": "temporary-separation",
+            "name": "Stay Close Even During Temporary Separations, a Journey that Navigates Distance and Keeps Your Love Intertwined",
+            "brand": "AWAY from HOME",
+            "color": "#d0ccb9",
+            "images": [
+                "/assets/images/Personalization/2.jpg" ]
+        },
+        
+        
+        {
+            "_id": "animal-love",
+            "name": "Unleash Your Passion for Exotic Animals on this journey",
+            "brand": "WILD ANIMAL LOVE",
+            "color": "#dbc394",
+            "images": [
+                "/assets/images/Personalization/5.jpg"]
+        }
+        
+    ]
+}

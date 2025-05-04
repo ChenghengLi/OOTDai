@@ -1,0 +1,106 @@
+{
+    "Everlast":
+        {
+            "name":"Everlast",
+            "products": [
+                 {
+                    "name": "Crystal Carving",
+                    "components": [
+                        {
+                            "id": "ImageSelector",
+                            "props": {
+                                "title": "Select Image for the item:",
+                                "name": "Crystal Carving",
+                                "showed_image_amount": 127
+                            },
+                            "emits": {
+                                "selection": []
+                            }
+                        }
+                    ]
+                    ,
+                    "professional": true
+                },
+                {
+                    "name": "Carved keychain",
+                    "components": [
+                        {
+                            "id": "ColorSelector",
+                            "props": {
+                                "title": "Select color for the item:",
+                                "name": "Carved keychain",
+                                "colors": ["#ffd9b3", "#e6ccff", "#8080ff", "#669999"],
+                                "showed_image_amount": 116
+                            },
+                            "emits": {
+                                "selection": []
+                            }
+                        }
+                    ]
+                    
+                }, 
+                {
+                    "name": "Mirror Light Box",
+                    "components": [
+                        {
+                            "id": "ImageSelector",
+                            "props": {
+                                "title": "Select Image for the item:",
+                                "name": "Mirror Light Box",
+                                "showed_image_amount": 127
+                            },
+                            "emits": {
+                                "selection": []
+                            }
+                        }
+                    ]
+                    ,
+                    "professional": true
+                },
+                {
+                    "name": "CUPBEARER",
+                    "components": [
+                        {
+                            "id": "QuoteInputor",
+                            "props":{
+                                "name": "CUPBEARER",
+                                "showed_image_amount": 122
+                            },
+                            "emits": {
+                                "selection": []
+                            }
+                        },
+                        {
+                            "id": "ColorSelector",
+                            "props": {
+                                "title": "Select color for the item:",
+                                "name": "CUPBEARER",
+                                "colors": ["black", "white"],
+                                "showed_image_amount": 122
+                            },
+                            "emits": {
+                                "selection": []
+                            }
+                        }
+                    ]
+                    
+                }
+            ]
+
+
+        }
+    ,"Accompania": 
+        {
+            "name":"Accompania",
+            "products":[
+
+            ]
+        }
+    ,"Artistico":
+        {
+            "name":"Artistico",
+            "products":[
+
+            ]
+        }
+}

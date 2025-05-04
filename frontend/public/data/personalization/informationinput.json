@@ -1,0 +1,484 @@
+{
+    "animal-love": [
+        {
+            "component": "AdaptiveUploaderBody",
+            "props": {
+                "img1src": "@/assets/journey/memorial-pet3_2@2x.png",
+                "img2src": "@/assets/journey/memorial@2x.png",
+                "img1Width": 222,
+                "img1Height": 292.22,
+                "img1Left": 2,
+                "img1Bottom": 106,
+                "img2Width": 924,
+                "img2Height": 247,
+                "img2Left": 49,
+                "img2Bottom": -37,
+                "question": "Upload 10 images",
+                "questioncolor": "#85AC98",
+                "placeholder": ""
+            }
+        },
+        {
+            "component": "AdaptiveQABody",
+            "props": {
+                "img2src": "@/assets/journey/wild-animal-love@2x.png",
+                "img1src": "@/assets/journey/wild-animal-pet1@2x.png",
+                "img2Width": 804,
+                "img2Height": 270,
+                "img2Left": 2,
+                "img2Bottom": -32,
+                "img1Width": 261.44,
+                "img1Height": 323.78,
+                "img1Left": 30,
+                "img1Bottom": 154.22,
+                "question": "Who is your oxytocin?",
+                "questioncolor": "#DBC394",
+                "placeholder": "Enter your oxytocin's name"
+            }
+        },
+        {
+            "component": "AdaptiveQABody",
+            "props": {
+                "img2src": "@/assets/journey/wild-animal-love@2x.png",
+                "img1src": "@/assets/journey/wild-animal-pet2@2x.png",
+                "img2Width": 804,
+                "img2Height": 270,
+                "img2Left": 2,
+                "img2Bottom": -32,
+                "img1Width": 230,
+                "img1Height": 158,
+                "img1Left": 314,
+                "img1Bottom": 142,
+                "question": "What is their species?",
+                "questioncolor": "#DBC394",
+                "placeholder": "Enter species name"
+            }
+        },
+        {
+            "component": "AdaptivePBody",
+            "props": {
+                "img2src": "@/assets/journey/wild-animal-love@2x.png",
+                "img1src": "@/assets/journey/wild-animal-pet3@2x.png",
+                "img2Width": 804,
+                "img2Height": 270,
+                "img2Left": 2,
+                "img2Bottom": -32,
+                "img1Width": 217,
+                "img1Height": 310,
+                "img1Left": 40.75,
+                "img1Bottom": 126.84,
+                "disclaimer": "Disclaimer & Privacy Notice: \nThe photos will be used for product design only. If the pet account is private, we will request follow @myoxytocin_pets. Your order will be cancelled and you will receive a full refund if the request is not accepted in 24hours.  It is recommended that you choose the gifting option only if your loved ones’ pet account is public.  Or, you can select full control or gift card option. \nPlease select next to proceed."
+            }
+        },
+        {
+            "component": "AdaptiveUploaderBody",
+            "props": {
+                "img2src": "@/assets/journey/wild-animal-love@2x.png",
+                "img1src": "@/assets/journey/wild-animal-pet4_2@2x.png",
+                "img2Width": 804,
+                "img2Height": 270,
+                "img2Left": 2,
+                "img2Bottom": -32,
+                "img1Width": 347,
+                "img1Height": 314,
+                "img1Left": -22,
+                "img1Bottom": 65,
+                "question": "Upload 10 images",
+                "questioncolor": "#DBC394",
+                "placeholder": "Optional"
+            }
+        }
+    ],
+    "gift": [
+        {
+            "component": "AdaptivePBody",
+            "props": {
+                "img2src": "@/assets/journey/away-from-home@2x.png",
+                "img1src": "@/assets/journey/wild-animal-pet3@2x.png",
+                "img2Width": 698,
+                "img2Height": 273,
+                "img2Left": 29.38,
+                "img2Bottom": -20,
+                "img1Width": 217,
+                "img1Height": 310,
+                "img1Left": 40.75,
+                "img1Bottom": 126.84,
+                "disclaimer": "Disclaimer & Privacy Notice: \nThe photos will be used for product design only. If the pet account is private, we will request follow @myoxytocin_pets. Your order will be cancelled and you will receive a full refund if the request is not accepted in 24hours.  It is recommended that you choose the gifting option only if your loved ones’ pet account is public.  Or, you can select full control or gift card option. \nPlease select next to proceed."
+            }
+        },
+        {
+            "component": "AdaptiveQABody",
+            "props": {
+                "img2src": "@/assets/journey/gifting-pet1@2x.png",
+                "img1src": "@/assets/journey/gifting@2x.png",
+                "img2Width": 252,
+                "img2Height": 394,
+                "img2Left": 10,
+                "img2Bottom": 60,
+                "img1Width": 730,
+                "img1Height": 239,
+                "img1Left": 75,
+                "img1Bottom": -15,
+                "question": "Who is your oxytocin?",
+                "questioncolor": "#F19586",
+                "placeholder": "Enter your oxytocin's name"
+            }
+        },
+        {
+            "component": "AdaptiveQABody",
+            "props": {
+                "img2src": "@/assets/journey/gifting@2x.png",
+                "img1src": "@/assets/journey/gifting-pet2@2x.png",
+                "img2Width": 730,
+                "img2Height": 239,
+                "img2Left": 75,
+                "img2Bottom": -15,
+                "img1Width": 350,
+                "img1Height": 272,
+                "img1Left": 0,
+                "img1Bottom": 75,
+                "question": "What is their species?",
+                "questioncolor": "#F19586",
+                "placeholder": "Enter species name"
+            }
+        },
+        {
+            "component": "AdaptiveUploaderBody",
+            "props": {
+                "img1src": "@/assets/journey/gifting@2x.png",
+                "img2src": "@/assets/journey/gifting-pet3_2@2x.png",
+                "img1Width": 730,
+                "img1Height": 239,
+                "img1Left": 75,
+                "img1Bottom": -15,
+                "img2Width": 197.5,
+                "img2Height": 243.5,
+                "img2Left": 130,
+                "img2Bottom": 172,
+                "question": "Upload 10 images",
+                "questioncolor": "#F19586",
+                "placeholder": ""
+            }
+        },
+        {
+            "component": "AdaptivePBody",
+            "props": {
+                "img2src": "@/assets/journey/gifting@2x.png",
+                "img1src": "@/assets/journey/wild-animal-pet3@2x.png",
+                "img2Width": 730,
+                "img2Height": 239,
+                "img2Left": 75,
+                "img2Bottom": -15,
+                "img1Width": 217,
+                "img1Height": 310,
+                "img1Left": 40.75,
+                "img1Bottom": 126.84,
+                "disclaimer": "Disclaimer & Privacy Notice: \nThe photos will be used for product design only. If the pet account is private, we will request follow @myoxytocin_pets. Your order will be cancelled and you will receive a full refund if the request is not accepted in 24hours.  It is recommended that you choose the gifting option only if your loved ones’ pet account is public.  Or, you can select full control or gift card option. \nPlease select next to proceed."
+            }
+        },
+        {
+            "component": "AdaptiveQABody",
+            "props": {
+                "img1src": "@/assets/journey/gifting@2x.png",
+                "img2src": "@/assets/journey/love-pet5_2@2x.png",
+                "img1Width": 730,
+                "img1Height": 239,
+                "img1Left": 75,
+                "img1Bottom": -15,
+                "img2Width": 226,
+                "img2Height": 249,
+                "img2Left": 57.4,
+                "img2Bottom": 170,
+                "question": "Enter your pet social media",
+                "questioncolor": "#F19586",
+                "placeholder": "@Instagram"
+            }
+        }
+    ],
+    "love": [
+        {
+            "component": "AdaptivePBody",
+            "props": {
+                "img2src": "@/assets/journey/away-from-home@2x.png",
+                "img1src": "@/assets/journey/wild-animal-pet3@2x.png",
+                "img2Width": 698,
+                "img2Height": 273,
+                "img2Left": 29.38,
+                "img2Bottom": -20,
+                "img1Width": 217,
+                "img1Height": 310,
+                "img1Left": 40.75,
+                "img1Bottom": 126.84,
+                "disclaimer": "Disclaimer & Privacy Notice: \nThe photos will be used for product design only. If the pet account is private, we will request follow @myoxytocin_pets. Your order will be cancelled and you will receive a full refund if the request is not accepted in 24hours.  It is recommended that you choose the gifting option only if your loved ones’ pet account is public.  Or, you can select full control or gift card option. \nPlease select next to proceed."
+            }
+        },
+        {
+            "component": "AdaptiveQABody",
+            "props": {
+                "img2src": "@/assets/journey/love@2x.png",
+                "img1src": "@/assets/journey/love-pet1_2@2x.png",
+                "img2Width": 613.3,
+                "img2Height": 239.2,
+                "img2Left": 57.2,
+                "img2Bottom": -15.6,
+                "img1Width": 366.2,
+                "img1Height": 344,
+                "img1Left": 20,
+                "img1Bottom": 94.4,
+                "question": "Who is your oxytocin?",
+                "questioncolor": "#E5A7A1",
+                "placeholder": "Enter your oxytocin's name"
+            }
+        },
+        {
+            "component": "AdaptiveQABody",
+            "props": {
+                "img1src": "@/assets/journey/love@2x.png",
+                "img2src": "@/assets/journey/love-pet1@2x.png",
+                "img1Width": 613.3,
+                "img1Height": 239.2,
+                "img1Left": 57.2,
+                "img1Bottom": -15.6,
+                "img2Width": 252.2,
+                "img2Height": 252.2,
+                "img2Left": 0,
+                "img2Bottom": 141,
+                "question": "What is their species?",
+                "questioncolor": "#E5A7A1",
+                "placeholder": "Enter species name"
+            }
+        },
+        {
+            "component": "AdaptiveUploaderBody",
+            "props": {
+                "img2src": "@/assets/journey/love@2x.png",
+                "img1src": "@/assets/journey/love-pet3_2@2x.png",
+                "img2Width": 613.3,
+                "img2Height": 239.2,
+                "img2Left": 57.2,
+                "img2Bottom": -15.6,
+                "img1Width": 323,
+                "img1Height": 320,
+                "img1Left": 7.8,
+                "img1Bottom": 93.5,
+                "question": "Upload 10 images",
+                "questioncolor": "#E5A7A1",
+                "placeholder": ""
+            }
+        },
+        {
+            "component": "AdaptivePBody",
+            "props": {
+                "img2src": "@/assets/journey/love@2x.png",
+                "img1src": "@/assets/journey/wild-animal-pet3@2x.png",
+                "img2Width": 613.3,
+                "img2Height": 239.2,
+                "img2Left": 57.2,
+                "img2Bottom": -15.6,
+                "img1Width": 217,
+                "img1Height": 310,
+                "img1Left": 40.75,
+                "img1Bottom": 126.84,
+                "disclaimer": "Disclaimer & Privacy Notice: \nThe photos will be used for product design only. If the pet account is private, we will request follow @myoxytocin_pets. Your order will be cancelled and you will receive a full refund if the request is not accepted in 24hours.  It is recommended that you choose the gifting option only if your loved ones’ pet account is public.  Or, you can select full control or gift card option. \nPlease select next to proceed."
+            }
+        },
+        {
+            "component": "AdaptiveQABody",
+            "props": {
+                "img1src": "@/assets/journey/love@2x.png",
+                "img2src": "@/assets/journey/love-pet5_2@2x.png",
+                "img1Width": 613.3,
+                "img1Height": 239.2,
+                "img1Left": 57.2,
+                "img1Bottom": -15.6,
+                "img2Width": 226,
+                "img2Height": 249,
+                "img2Left": 20.38,
+                "img2Bottom": 181,
+                "question": "Enter your pet social media",
+                "questioncolor": "#E5A7A1",
+                "placeholder": "@Instagram"
+            }
+        }
+    ],
+    "temporary-separation": [
+        {
+            "component": "AdaptiveQABody",
+            "props": {
+                "img2src": "@/assets/journey/away-from-home-pet1@2x.png",
+                "img1src": "@/assets/journey/away-from-home@2x.png",
+                "img2Width": 174.66,
+                "img2Height": 313,
+                "img2Left": 24.34,
+                "img2Bottom": 131,
+                "img1Width": 698,
+                "img1Height": 273,
+                "img1Left": 29.38,
+                "img1Bottom": -20,
+                "question": "Who is your oxytocin?",
+                "questioncolor": "#C2B59B",
+                "placeholder": "Enter your oxytocin's name"
+            }
+        },
+        {
+            "component": "AdaptiveQABody",
+            "props": {
+                "img2src": "@/assets/journey/away-from-home-pet2@2x.png",
+                "img1src": "@/assets/journey/away-from-home@2x.png",
+                "img2Width": 264,
+                "img2Height": 289,
+                "img2Left": 23.38,
+                "img2Bottom": 156,
+                "img1Width": 698,
+                "img1Height": 273,
+                "img1Left": 29.38,
+                "img1Bottom": -20,
+                "question": "What is their species?",
+                "questioncolor": "#C2B59B",
+                "placeholder": "Enter species name"
+            }
+        },
+        {
+            "component": "AdaptiveUploaderBody",
+            "props": {
+                "img1src": "@/assets/journey/away-from-home@2x.png",
+                "img2src": "@/assets/journey/away-from-home-pet3_2@2x.png",
+                "img2Width": 222,
+                "img2Height": 292.22,
+                "img2Left": 2,
+                "img2Bottom": 106,
+                "img1Width": 698,
+                "img1Height": 273,
+                "img1Left": 29.38,
+                "img1Bottom": -20,
+                "question": "Upload 10 images",
+                "questioncolor": "#C2B59B",
+                "placeholder": ""
+            }
+        },
+        {
+            "component": "AdaptivePBody",
+            "props": {
+                "img2src": "@/assets/journey/away-from-home@2x.png",
+                "img1src": "@/assets/journey/wild-animal-pet3@2x.png",
+                "img2Width": 698,
+                "img2Height": 273,
+                "img2Left": 29.38,
+                "img2Bottom": -20,
+                "img1Width": 217,
+                "img1Height": 310,
+                "img1Left": 40.75,
+                "img1Bottom": 126.84,
+                "disclaimer": "Disclaimer & Privacy Notice: \nThe photos will be used for product design only. If the pet account is private, we will request follow @myoxytocin_pets. Your order will be cancelled and you will receive a full refund if the request is not accepted in 24hours.  It is recommended that you choose the gifting option only if your loved ones’ pet account is public.  Or, you can select full control or gift card option. \nPlease select next to proceed."
+            }
+        },
+        {
+            "component": "AdaptiveQABody",
+            "props": {
+                "img1src": "@/assets/journey/away-from-home@2x.png",
+                "img2src": "@/assets/journey/love-pet5_2@2x.png",
+                "img1Width": 698,
+                "img1Height": 273,
+                "img1Left": 29.38,
+                "img1Bottom": -20,
+                "img2Width": 226,
+                "img2Height": 249,
+                "img2Left": 26.4,
+                "img2Bottom": 146,
+                "question": "Enter your pet social media",
+                "questioncolor": "#C2B59B",
+                "placeholder": "@Instagram"
+            }
+        }
+    ],
+    "memorialize": [
+        {
+            "component": "AdaptiveQABody",
+            "props": {
+                "img2src": "@/assets/journey/memorial@2x.png",
+                "img1src": "@/assets/journey/memorial-pet1@2x.png",
+                "img2Width": 924,
+                "img2Height": 247,
+                "img2Left": 49,
+                "img2Bottom": -37,
+                "img1Width": 310,
+                "img1Height": 331,
+                "img1Left": 61,
+                "img1Bottom": 77.53,
+                "question": "Who is your oxytocin?",
+                "questioncolor": "#85AC98",
+                "placeholder": "Enter your oxytocin's name"
+            }
+        },
+        {
+            "component": "AdaptiveQABody",
+            "props": {
+                "img2src": "@/assets/journey/memorial@2x.png",
+                "img1src": "@/assets/journey/memorial-pet2@2x.png",
+                "img2Width": 924,
+                "img2Height": 247,
+                "img2Left": 49,
+                "img2Bottom": -37,
+                "img1Width": 408,
+                "img1Height": 317,
+                "img1Left": 41.38,
+                "img1Bottom": 74.53,
+                "question": "What is their species?",
+                "questioncolor": "#85AC98",
+                "placeholder": "Enter species name"
+            }
+        },
+        {
+            "component": "AdaptiveUploaderBody",
+            "props": {
+                "img1src": "@/assets/journey/memorial-pet3_2@2x.png",
+                "img2src": "@/assets/journey/memorial@2x.png",
+                "img1Width": 222,
+                "img1Height": 292.22,
+                "img1Left": 2,
+                "img1Bottom": 106,
+                "img2Width": 924,
+                "img2Height": 247,
+                "img2Left": 49,
+                "img2Bottom": -37,
+                "question": "Upload 10 images",
+                "questioncolor": "#85AC98",
+                "placeholder": ""
+            }
+        },
+        {
+            "component": "AdaptivePBody",
+            "props": {
+                "img2src": "@/assets/journey/memorial@2x.png",
+                "img1src": "@/assets/journey/wild-animal-pet3@2x.png",
+                "img2Width": 924,
+                "img2Height": 247,
+                "img2Left": 49,
+                "img2Bottom": -37,
+                "img1Width": 217,
+                "img1Height": 310,
+                "img1Left": 40.75,
+                "img1Bottom": 126.84,
+                "disclaimer": "Disclaimer & Privacy Notice: \nThe photos will be used for product design only. If the pet account is private, we will request follow @myoxytocin_pets. Your order will be cancelled and you will receive a full refund if the request is not accepted in 24hours.  It is recommended that you choose the gifting option only if your loved ones’ pet account is public.  Or, you can select full control or gift card option. \nPlease select next to proceed."
+            }
+        },
+        {
+            "component": "AdaptiveQABody",
+            "props": {
+                "img1src": "@/assets/journey/memorial@2x.png",
+                "img2src": "@/assets/journey/love-pet5_2@2x.png",
+                "img1Width": 924,
+                "img1Height": 247,
+                "img1Left": 49,
+                "img1Bottom": -37,
+                "img2Width": 226,
+                "img2Height": 249,
+                "img2Left": 26.4,
+                "img2Bottom": 146,
+                "question": "Enter your pet social media",
+                "questioncolor": "#85AC98",
+                "placeholder": "@Instagram"
+            }
+        }
+    ]
+}

@@ -1,0 +1,58 @@
+{
+    "results": [
+      {
+        "_id": "621b7029fd494b93bb109626",
+        "name": "Visual Match",
+        "brand": "INDITEX AI",
+        "description": "Upload a photo or screenshot to find visually similar clothing items from the Inditex catalog in real time.",
+        "price": 0,
+        "currency": "$",
+        "in_stock": true,
+        "router": "/search-outfit",
+        "click": "Find your product",
+        "gender": "Unisex",
+        "images": [
+          "/assets/images/Sets/Traverse/process-image2.png"
+        ],
+        "rating": null,
+        "quantity": null,
+        "retailer": null
+      },
+      {
+        "_id": "621b7028fd494b93bb109624",
+        "name": "Style Upgrade",
+        "brand": "INDITEX AI",
+        "description": "Upload a photo of your current outfit to receive tailored recommendations for complementary items from Generative AI and the Inditex catalog, helping you complete or enhance your look.",
+        "price": 0,
+        "currency": "$",
+        "router": "/create-outfit",
+        "click": "Try it on",
+        "in_stock": true,
+        "gender": "Unisex",
+        "images": [
+          "/assets/images/Sets/Everlast/process-image3.png"
+        ],
+        "rating": null,
+        "quantity": null,
+        "retailer": null
+      },
+      {
+        "_id": "621b7029fd494b93bb109625",
+        "name": "Rate Styles",
+        "brand": "INDITEX AI",
+        "description": "Rate different outfits to help refine and personalize future style suggestions based on your taste.",
+        "price": 0,
+        "currency": "$",
+        "router": "/valorate-outfit",
+        "click": "Rate outfits",
+        "in_stock": true,
+        "gender": "Unisex",
+        "images": [
+          "/assets/images/Sets/Artistico/process-image4.png"
+        ],
+        "rating": null,
+        "quantity": null,
+        "retailer": null
+      }
+    ]
+  }

@@ -1,0 +1,51 @@
+{
+  "name": "Buy-It",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build",
+    "lint": "vue-cli-service lint"
+  },
+  "dependencies": {
+    "@animxyz/core": "^0.6.6",
+    "@animxyz/vue3": "^0.6.7",
+    "@cesdk/cesdk-js": "^1.43.0",
+    "@imgly/plugin-background-removal-web": "^1.0.3",
+    "@stripe/stripe-js": "^4.9.0",
+    "@vue-stripe/vue-stripe": "^4.5.0",
+    "@vueuse/core": "^12.0.0",
+    "@vueuse/motion": "^2.2.6",
+    "axios": "^0.27.2",
+    "babel-loader": "^9.2.1",
+    "blueimp-md5": "^2.19.0",
+    "bootstrap": "^5.3.3",
+    "core-js": "^3.8.3",
+    "defu": "^6.1.4",
+    "firebase": "^11.0.1",
+    "firebase-tools": "^13.24.2",
+    "global": "^4.4.0",
+    "gsap": "^3.12.5",
+    "js-cloudimage-360-view": "^3.2.1",
+    "onnxruntime-web": "1.21.0-dev.20250114-228dd16893",
+    "stripe": "^17.3.1",
+    "sweetalert2": "^11.10.6",
+    "vue": "^3.2.13",
+    "vue-awesome-paginate": "^1.1.46",
+    "vue-router": "^4.0.3",
+    "vue3-paystack": "^0.0.5",
+    "vuex": "^4.0.2",
+    "vuex-persistedstate": "^4.1.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.26.7",
+    "@babel/eslint-parser": "^7.12.16",
+    "@vue/cli-plugin-babel": "~5.0.0",
+    "@vue/cli-plugin-eslint": "^5.0.8",
+    "@vue/cli-plugin-router": "~5.0.0",
+    "@vue/cli-service": "^5.0.8",
+    "eslint": "^8",
+    "eslint-plugin-vue": "^9.30.0",
+    "prettier": "^2.4.1"
+  }
+}

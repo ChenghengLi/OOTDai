@@ -1,0 +1,338 @@
+{
+  "Everlast": {
+      "name": "Everlast",
+      "products": [
+          {
+              "name": "Lightbox",
+              "components": [
+                  {
+                      "id": "ImageSelector",
+                      "props": {
+                          "title": "Select Image for the item:",
+                          "name": "Lightbox",
+                          "showed_image_amount": 127
+                      },
+                      "emits": {
+                          "selection": []
+                      }
+                  }
+              ],
+              "professional": true
+          },
+          {
+              "name": "Cupbearer",
+              "components": [
+                  {
+                      "id": "ImageSelector",
+                      "props": {
+                          "title": "Select Image for the item:",
+                          "name": "Cupbearer",
+                          "showed_image_amount": 122
+                      },
+                      "emits": {
+                          "selection": []
+                      }
+                  },
+                  {
+                      "id": "QuoteInputor",
+                      "props": {
+                          "name": "Cupbearer",
+                          "showed_image_amount": 122
+                      },
+                      "emits": {
+                          "selection": []
+                      }
+                  }
+              ],
+              "professional": false
+          },
+          {
+              "name": "Crystal Carving",
+              "components": [
+                  {
+                      "id": "ImageSelector",
+                      "props": {
+                          "title": "Select Image for the item:",
+                          "name": "Crystal Carving",
+                          "showed_image_amount": 127
+                      },
+                      "emits": {
+                          "selection": []
+                      }
+                  }
+              ],
+              "professional": true
+          },
+          {
+              "name": "Carved Keychain",
+              "components": [
+                  {
+                      "id": "ImageSelector",
+                      "props": {
+                          "title": "Select Image for the item:",
+                          "name": "Carved Keychain",
+                          "showed_image_amount": 116
+                      },
+                      "emits": {
+                          "selection": []
+                      }
+                  },
+                  {
+                      "id": "ColorSelector",
+                      "props": {
+                          "title": "Select Metal Color:",
+                          "name": "Carved Keychain",
+                          "colors": ["#FFD700", "#C0C0C0", "#B76E79"],
+                          "showed_image_amount": 116
+                      },
+                      "emits": {
+                          "selection": []
+                      }
+                  }
+              ],
+              "professional": true
+          }
+      ]
+  },
+  "Artistico": {
+      "name": "Artistico",
+      "products": [
+          {
+              "name": "Puzzle",
+              "components": [
+                  {
+                      "id": "ImageSelector",
+                      "props": {
+                          "title": "Select Image for the item:",
+                          "name": "Puzzle",
+                          "showed_image_amount": 128
+                      },
+                      "emits": {
+                          "selection": []
+                      }
+                  }
+              ],
+              "professional": true
+          },
+          {
+              "name": "Leaf",
+              "components": [
+                  {
+                      "id": "ImageSelector",
+                      "props": {
+                          "title": "Select Image for the item:",
+                          "name": "Leaf",
+                          "showed_image_amount": 117
+                      },
+                      "emits": {
+                          "selection": []
+                      }
+                  }
+              ],
+              "professional": true
+          },
+          {
+              "name": "Wood Carving",
+              "components": [
+                  {
+                      "id": "ImageSelector",
+                      "props": {
+                          "title": "Select Image for the item:",
+                          "name": "Wood Carving",
+                          "showed_image_amount": 117
+                      },
+                      "emits": {
+                          "selection": []
+                      }
+                  }
+              ],
+              "professional": true
+          },
+          {
+              "name": "Notebook",
+              "components": [
+                  {
+                      "id": "ImageSelector",
+                      "props": {
+                          "title": "Select Image for the item:",
+                          "name": "Notebook",
+                          "showed_image_amount": 117
+                      },
+                      "emits": {
+                          "selection": []
+                      }
+                  },
+                  {
+                      "id": "QuoteInputor",
+                      "props": {
+                          "name": "Notebook",
+                          "showed_image_amount": 117
+                      },
+                      "emits": {
+                          "selection": []
+                      }
+                  }
+              ],
+              "professional": false
+          },
+          {
+              "name": "Painting",
+              "components": [
+                  {
+                      "id": "ImageSelector",
+                      "props": {
+                          "title": "Select Image for the item:",
+                          "name": "Painting",
+                          "showed_image_amount": 120
+                      },
+                      "emits": {
+                          "selection": []
+                      }
+                  },
+                  {
+                      "id": "ColorSelector",
+                      "props": {
+                          "title": "Select Color Spectrum:",
+                          "name": "Painting",
+                          "colors": ["full_spectrum"],
+                          "showed_image_amount": 120
+                      },
+                      "emits": {
+                          "selection": []
+                      }
+                  }
+              ],
+              "professional": true
+          }
+      ]
+  },
+  "Accompania": {
+      "name": "Accompania",
+      "products": [
+          {
+              "name": "Minimi",
+              "components": [
+                  {
+                      "id": "ImageSelector",
+                      "props": {
+                          "title": "Select Image for the item:",
+                          "name": "Minimi",
+                          "showed_image_amount": 120
+                      },
+                      "emits": {
+                          "selection": []
+                      }
+                  }
+              ],
+              "professional": true
+          },
+          {
+              "name": "Minimi Keychain",
+              "components": [
+                  {
+                      "id": "ImageSelector",
+                      "props": {
+                          "title": "Select Image for the item:",
+                          "name": "Minimi Keychain",
+                          "showed_image_amount": 118
+                      },
+                      "emits": {
+                          "selection": []
+                      }
+                  }
+              ],
+              "professional": true
+          },
+          {
+              "name": "Bag",
+              "components": [
+                  {
+                      "id": "ImageSelector",
+                      "props": {
+                          "title": "Select Image for the item:",
+                          "name": "Bag",
+                          "showed_image_amount": 132
+                      },
+                      "emits": {
+                          "selection": []
+                      }
+                  },
+                  {
+                      "id": "QuoteInputor",
+                      "props": {
+                          "name": "Bag",
+                          "showed_image_amount": 132
+                      },
+                      "emits": {
+                          "selection": []
+                      }
+                  }
+              ],
+              "professional": false
+          },
+          {
+              "name": "Mirror",
+              "components": [
+                  {
+                      "id": "ImageSelector",
+                      "props": {
+                          "title": "Select Image for the item:",
+                          "name": "Mirror",
+                          "showed_image_amount": 120
+                      },
+                      "emits": {
+                          "selection": []
+                      }
+                  },
+                  {
+                      "id": "ColorSelector",
+                      "props": {
+                          "title": "Select Frame Color:",
+                          "name": "Mirror",
+                          "colors": ["full_spectrum"],
+                          "showed_image_amount": 120
+                      },
+                      "emits": {
+                          "selection": []
+                      }
+                  }
+              ],
+              "professional": true
+          },
+          {
+              "name": "Phone Case",
+              "components": [
+                  {
+                      "id": "ImageSelector",
+                      "props": {
+                          "title": "Select Image for the item:",
+                          "name": "Phone Case",
+                          "showed_image_amount": 115
+                      },
+                      "emits": {
+                          "selection": []
+                      }
+                  },
+                  {
+                      "id": "ColorSelector",
+                      "props": {
+                          "title": "Select Case Color:",
+                          "name": "Phone Case",
+                          "colors": ["full_spectrum"],
+                          "showed_image_amount": 115
+                      },
+                      "emits": {
+                          "selection": []
+                      }
+                  }
+              ],
+              "professional": true
+          },
+          {
+              "name": "Furbearer",
+              "components": [],
+              "professional": true
+          }
+      ]
+  }
+}
